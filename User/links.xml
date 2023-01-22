@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pages>
+<link>
+<title>Khodal Super Store</title>
+<url>item.php?shop=1</url>
+</link>
+<link>
+<title>KOREA COSMETIC</title>
+<url>item.php?shop=2</url>
+</link>
+<link>
+<title>Nirali Medical store</title>
+<url>item.php?shop=3</url>
+</link>
+<link>
+<title>SR Amul Parlour</title>
+<url>item.php?shop=4</url>
+</link>
+<link>
+<title>Radhika Appliances</title>
+<url>item.php?shop=5</url>
+</link>
+<link>
+<title>LOOK WELL Bakers</title>
+<url>item.php?shop=6</url>
+</link>
+<link>
+<title>MOBILE WALA</title>
+<url>item.php?shop=7</url>
+</link>
+<link>
+<title>Madhav Grocery Store</title>
+<url>item.php?shop=8</url>
+</link>
+<link>
+<title>Jay Khodiyar bakery</title>
+<url>item.php?shop=9</url>
+</link>
+<link>
+<title>New Look Cosmetics</title>
+<url>item.php?shop=10</url>
+</link>
+<link>
+<title>Hari Om Medical </title>
+<url>item.php?shop=11</url>
+</link>
+<link>
+<title>DOODH WALA</title>
+<url>item.php?shop=12</url>
+</link>
+<link>
+<title>Hari Om Vasan Bhanda</title>
+<url>item.php?shop=13</url>
+</link>
+<link>
+<title>Prince Mobile</title>
+<url>item.php?shop=14</url>
+</link>
+<link>
+<title>Om Provision Store</title>
+<url>item.php?shop=15</url>
+</link>
+<link>
+<title>Vinayak Grocery </title>
+<url>item.php?shop=16</url>
+</link>
+<link>
+<title>Milk Place</title>
+<url>item.php?shop=17</url>
+</link>
+<link>
+<title>Best one Super Store</title>
+<url>item.php?shop=18</url>
+</link>
+<link>
+<title>Best Dairy </title>
+<url>item.php?shop=19</url>
+</link>
+<link>
+<title>Sai Bakery</title>
+<url>item.php?shop=20</url>
+</link>
+<link>
+<title>Jay Siddheshvar Mall</title>
+<url>item.php?shop=21</url>
+</link>
+<link>
+<title>Detol pack</title>
+<url>search_result.php?product=1</url>
+</link>
+<link>
+<title>Life boy 4 soap</title>
+<url>search_result.php?product=4</url>
+</link>
+<link>
+<title>Sunsilk </title>
+<url>search_result.php?product=14</url>
+</link>
+<link>
+<title>Coconut oil</title>
+<url>search_result.php?product=9</url>
+</link>
+<link>
+<title>Navratn oil</title>
+<url>search_result.php?product=10</url>
+</link>
+<link>
+<title>Surfexcel</title>
+<url>search_result.php?product=15</url>
+</link>
+<link>
+<title>Detol </title>
+<url>search_result.php?product=2</url>
+</link>
+<link>
+<title>Lifeboy 1 soap</title>
+<url>search_result.php?product=3</url>
+</link>
+<link>
+<title>Life boy lemonf</title>
+<url>search_result.php?product=5</url>
+</link>
+<link>
+<title>Dove shampoo</title>
+<url>search_result.php?product=6</url>
+</link>
+<link>
+<title>Head and Sholde</title>
+<url>search_result.php?product=7</url>
+</link>
+<link>
+<title>Air purifier</title>
+<url>search_result.php?product=11</url>
+</link>
+<link>
+<title>Harpic cleaner</title>
+<url>search_result.php?product=12</url>
+</link>
+<link>
+<title>Colin</title>
+<url>search_result.php?product=13</url>
+</link>
+<link>
+<title>Surfexcel liqui</title>
+<url>search_result.php?product=16</url>
+</link>
+<link>
+<title>Vim Gel</title>
+<url>search_result.php?product=36</url>
+</link>
+<link>
+<title>Rice</title>
+<url>search_result.php?product=17</url>
+</link>
+<link>
+<title>Suger</title>
+<url>search_result.php?product=18</url>
+</link>
+<link>
+<title>Fortune oil</title>
+<url>search_result.php?product=29</url>
+</link>
+<link>
+<title>Sunflower oil</title>
+<url>search_result.php?product=30</url>
+</link>
+<link>
+<title>Almonds</title>
+<url>search_result.php?product=31</url>
+</link>
+<link>
+<title>Cashews</title>
+<url>search_result.php?product=32</url>
+</link>
+<link>
+<title>Pistachios</title>
+<url>search_result.php?product=33</url>
+</link>
+<link>
+<title>Laal Mirchi</title>
+<url>search_result.php?product=35</url>
+</link>
+<link>
+<title>salt</title>
+<url>search_result.php?product=37</url>
+</link>
+<link>
+<title>Fair and lovely</title>
+<url>search_result.php?product=8</url>
+</link>
+<link>
+<title>Body Lotion Ros</title>
+<url>search_result.php?product=38</url>
+</link>
+<link>
+<title>Body Lotion Mil</title>
+<url>search_result.php?product=39</url>
+</link>
+<link>
+<title>Lakmy Face Wash</title>
+<url>search_result.php?product=40</url>
+</link>
+<link>
+<title>Ganier Man Face</title>
+<url>search_result.php?product=41</url>
+</link>
+<link>
+<title>Himalaya Face W</title>
+<url>search_result.php?product=42</url>
+</link>
+<link>
+<title>Lakmy kajal</title>
+<url>search_result.php?product=34</url>
+</link>
+<link>
+<title>Nail Polish </title>
+<url>search_result.php?product=43</url>
+</link>
+<link>
+<title>MakeUp Mini</title>
+<url>search_result.php?product=44</url>
+</link>
+<link>
+<title>MakeUp Box</title>
+<url>search_result.php?product=45</url>
+</link>
+<link>
+<title>Vicks Bam</title>
+<url>search_result.php?product=67</url>
+</link>
+<link>
+<title>ENO </title>
+<url>search_result.php?product=68</url>
+</link>
+<link>
+<title>Baby Diaper</title>
+<url>search_result.php?product=69</url>
+</link>
+<link>
+<title>PCM 650mg</title>
+<url>search_result.php?product=65</url>
+</link>
+<link>
+<title>Stopack 10 tabl</title>
+<url>search_result.php?product=66</url>
+</link>
+<link>
+<title>Soframycin</title>
+<url>search_result.php?product=70</url>
+</link>
+<link>
+<title>Butter small</title>
+<url>search_result.php?product=19</url>
+</link>
+<link>
+<title>Cheese</title>
+<url>search_result.php?product=20</url>
+</link>
+<link>
+<title>Amul Taaza Milk</title>
+<url>search_result.php?product=21</url>
+</link>
+<link>
+<title>Amul Gold Milk</title>
+<url>search_result.php?product=22</url>
+</link>
+<link>
+<title>Butter milk </title>
+<url>search_result.php?product=23</url>
+</link>
+<link>
+<title>Mixer</title>
+<url>search_result.php?product=46</url>
+</link>
+<link>
+<title>Knife</title>
+<url>search_result.php?product=47</url>
+</link>
+<link>
+<title>Spoon</title>
+<url>search_result.php?product=48</url>
+</link>
+<link>
+<title>Plates</title>
+<url>search_result.php?product=49</url>
+</link>
+<link>
+<title>Bowles</title>
+<url>search_result.php?product=50</url>
+</link>
+<link>
+<title>Dinner Set</title>
+<url>search_result.php?product=51</url>
+</link>
+<link>
+<title>souse bottle</title>
+<url>search_result.php?product=25</url>
+</link>
+<link>
+<title>Kishan Ketchup</title>
+<url>search_result.php?product=26</url>
+</link>
+<link>
+<title>Chocos Pack</title>
+<url>search_result.php?product=27</url>
+</link>
+<link>
+<title>Eclairs chocola</title>
+<url>search_result.php?product=28</url>
+</link>
+<link>
+<title>Tost Diet Rusk</title>
+<url>search_result.php?product=52</url>
+</link>
+<link>
+<title>Hide and Seek</title>
+<url>search_result.php?product=53</url>
+</link>
+<link>
+<title>Parle-G</title>
+<url>search_result.php?product=54</url>
+</link>
+<link>
+<title>Good Day Biscui</title>
+<url>search_result.php?product=55</url>
+</link>
+<link>
+<title>Handsfree Apple</title>
+<url>search_result.php?product=56</url>
+</link>
+<link>
+<title>Hands free</title>
+<url>search_result.php?product=57</url>
+</link>
+<link>
+<title>OTG </title>
+<url>search_result.php?product=58</url>
+</link>
+<link>
+<title>PendriveSundisk</title>
+<url>search_result.php?product=59</url>
+</link>
+<link>
+<title>Pendrive HP</title>
+<url>search_result.php?product=60</url>
+</link>
+<link>
+<title>Andriod Cable</title>
+<url>search_result.php?product=61</url>
+</link>
+<link>
+<title>Type-C cable</title>
+<url>search_result.php?product=62</url>
+</link>
+<link>
+<title>iPhone Cable</title>
+<url>search_result.php?product=63</url>
+</link>
+<link>
+<title>Android Charger</title>
+<url>search_result.php?product=64</url>
+</link>
+<link>
+<title>Detol pack</title>
+<url>search_result.php?product=1</url>
+</link>
+<link>
+<title>Rice</title>
+<url>search_result.php?product=17</url>
+</link>
+<link>
+<title>Life boy 4 soap</title>
+<url>search_result.php?product=4</url>
+</link>
+
+</pages>
